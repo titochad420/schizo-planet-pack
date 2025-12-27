@@ -1,4 +1,0 @@
-INTERNAL 
-{
-    name = Fragmstr   
-}
